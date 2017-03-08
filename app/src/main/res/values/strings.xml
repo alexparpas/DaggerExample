@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerExample</string>
+    <string name="speed">Speed</string>
+    <string name="increase">Increase (10)</string>
+    <string name="decrease">Decrease (10)</string>
+    <string name="stop">Stop</string>
+</resources>
